@@ -1,0 +1,17 @@
+{
+  "name": "playwright-zealand-tests",
+  "version": "1.0.0",
+  "description": "End-to-end tests of zealand.dk with Playwright",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1"
+  }
+}
